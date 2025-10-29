@@ -1,6 +1,6 @@
 {
   "title": {
-    "message": "Docs",
+    "message": "Documentazione",
     "description": "The title in the navbar"
   },
   "logo.alt": {
@@ -8,7 +8,7 @@
     "description": "The alt text of navbar logo"
   },
   "item.label.Getting started": {
-    "message": "Getting started",
+    "message": "Per iniziare",
     "description": "Navbar item with label Getting started"
   },
   "item.label.SCNX": {
@@ -16,7 +16,7 @@
     "description": "Navbar item with label SCNX"
   },
   "item.label.CustomBot": {
-    "message": "CustomBot",
+    "message": "Bot Discord",
     "description": "Navbar item with label CustomBot"
   },
   "item.label.Modmail": {
@@ -24,11 +24,11 @@
     "description": "Navbar item with label Modmail"
   },
   "item.label.Linked Roles": {
-    "message": "Linked Roles",
+    "message": "Ruoli Collegati",
     "description": "Navbar item with label Linked Roles"
   },
   "item.label.News": {
-    "message": "News",
+    "message": "Notizie",
     "description": "Navbar item with label News"
   }
 }
