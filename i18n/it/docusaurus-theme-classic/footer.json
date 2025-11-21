@@ -76,7 +76,7 @@
     "description": "The footer copyright"
   },
   "logo.alt": {
-    "message": "ScootKit Logo",
+    "message": "Logo ScootKit",
     "description": "The alt text of footer logo"
   }
 }
