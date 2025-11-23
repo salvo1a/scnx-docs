@@ -1,22 +1,22 @@
 {
   "version.label": {
-    "message": "Next",
+    "message": "Prossimo",
     "description": "The label for version current"
   },
   "sidebar.startSidebar.category.Getting Started": {
-    "message": "Getting Started",
+    "message": "Per iniziare",
     "description": "The label for category Getting Started in sidebar startSidebar"
   },
   "sidebar.startSidebar.category.Getting Started.link.generated-index.title": {
-    "message": "Getting started on SCNX",
+    "message": "Per iniziare su SCNX",
     "description": "The generated-index page title for category Getting Started in sidebar startSidebar"
   },
   "sidebar.startSidebar.category.Getting Started.link.generated-index.description": {
-    "message": "Easily get started on SCNX - here you'll find all guides you need.",
+    "message": "Inizia facilmente su SCNX - qui troverai tutte le guide che ti servono.",
     "description": "The generated-index page description for category Getting Started in sidebar startSidebar"
   },
   "sidebar.startSidebar.category.Detailed documentation": {
-    "message": "Detailed documentation",
+    "message": "Documentazione dettagliata",
     "description": "The label for category Detailed documentation in sidebar startSidebar"
   },
   "sidebar.startSidebar.category.Discord": {
@@ -24,7 +24,7 @@
     "description": "The label for category Discord in sidebar startSidebar"
   },
   "sidebar.startSidebar.doc.Custom-Bot": {
-    "message": "Custom-Bot",
+    "message": "Bot Discord",
     "description": "The label for the doc item Custom-Bot in sidebar startSidebar, linking to the doc custom-bot/intro"
   },
   "sidebar.startSidebar.doc.SCNX": {
@@ -32,39 +32,39 @@
     "description": "The label for the doc item SCNX in sidebar startSidebar, linking to the doc scnx/intro"
   },
   "sidebar.startSidebar.doc.Modmail-Bot": {
-    "message": "Modmail-Bot",
+    "message": "Bot Modmail",
     "description": "The label for the doc item Modmail-Bot in sidebar startSidebar, linking to the doc modmail/intro"
   },
   "sidebar.startSidebar.doc.Linked Roles": {
-    "message": "Linked Roles",
+    "message": "Ruoli Collegati",
     "description": "The label for the doc item Linked Roles in sidebar startSidebar, linking to the doc linked-roles/intro"
   },
   "sidebar.linkedRolesSidebar.category.SCNX Linked Roles": {
-    "message": "SCNX Linked Roles",
+    "message": "Ruoli Collegati SCNX",
     "description": "The label for category SCNX Linked Roles in sidebar linkedRolesSidebar"
   },
   "sidebar.linkedRolesSidebar.category.SCNX Linked Roles.link.generated-index.title": {
-    "message": "Linked Roles on SCNX",
+    "message": "Ruoli Collegati su SCNX",
     "description": "The generated-index page title for category SCNX Linked Roles in sidebar linkedRolesSidebar"
   },
   "sidebar.linkedRolesSidebar.category.SCNX Linked Roles.link.generated-index.description": {
-    "message": "Use Linked Roles to display the role of a user next to their username in your Discord chats.",
+    "message": "Usa i Ruoli Collegati per mostrare il ruolo di un utente affianco il loro nome utente nelle chat su Discord.",
     "description": "The generated-index page description for category SCNX Linked Roles in sidebar linkedRolesSidebar"
   },
   "sidebar.linkedRolesSidebar.link.Get started": {
-    "message": "Get started",
+    "message": "Inizia ora",
     "description": "The label for link Get started in sidebar linkedRolesSidebar, linking to /docs/linked-roles"
   },
   "sidebar.customBotSidebar.category.SCNX Custom-Bot": {
-    "message": "SCNX Custom-Bot",
+    "message": "Bot Discord SCNX",
     "description": "The label for category SCNX Custom-Bot in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Modules": {
-    "message": "Modules",
+    "message": "Moduli",
     "description": "The label for category Modules in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Modules.link.generated-index.title": {
-    "message": "Custom-Bot-Modules",
+    "message": "Moduli Bot Discord",
     "description": "The generated-index page title for category Modules in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Modules.link.generated-index.description": {
@@ -72,11 +72,11 @@
     "description": "The generated-index page description for category Modules in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Administration": {
-    "message": "Administration",
+    "message": "Amministrazione",
     "description": "The label for category Administration in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Administration.link.generated-index.title": {
-    "message": "Administration modules",
+    "message": "Moduli amministrativi",
     "description": "The generated-index page title for category Administration in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Administration.link.generated-index.description": {
@@ -88,11 +88,11 @@
     "description": "The label for category Bot in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Bot.link.generated-index.title": {
-    "message": "Bot-Modules",
+    "message": "Moduli del Bot",
     "description": "The generated-index page title for category Bot in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Bot.link.generated-index.description": {
-    "message": "Use bot modules to make your bot better - these modules unlock more customization options and features for your bot.",
+    "message": "Usa i moduli del bot per renderlo migliore - questi moduli sbloccano più opzioni di personalizzazione e funzioni per il tuo bot.",
     "description": "The generated-index page description for category Bot in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Community": {
@@ -100,7 +100,7 @@
     "description": "The label for category Community in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Community.link.generated-index.title": {
-    "message": "Community Modules",
+    "message": "Moduli della Community",
     "description": "The generated-index page title for category Community in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Community.link.generated-index.description": {
@@ -108,11 +108,11 @@
     "description": "The generated-index page description for category Community in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Games & Fun": {
-    "message": "Games & Fun",
+    "message": "Giochi & Divertimento",
     "description": "The label for category Games & Fun in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Games & Fun.link.generated-index.title": {
-    "message": "Game & Fun Modules",
+    "message": "Moduli Giochi & Divertimento",
     "description": "The generated-index page title for category Games & Fun in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Games & Fun.link.generated-index.description": {
@@ -120,11 +120,11 @@
     "description": "The generated-index page description for category Games & Fun in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Integrations": {
-    "message": "Integrations",
+    "message": "Integrazioni",
     "description": "The label for category Integrations in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Integrations.link.generated-index.title": {
-    "message": "Integration Modules",
+    "message": "Moduli d'Integrazioni",
     "description": "The generated-index page title for category Integrations in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Integrations.link.generated-index.description": {
@@ -132,23 +132,23 @@
     "description": "The generated-index page description for category Integrations in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Moderation": {
-    "message": "Moderation",
+    "message": "Moderazione",
     "description": "The label for category Moderation in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Moderation.link.generated-index.title": {
-    "message": "Moderation Modules",
+    "message": "Moduli di Moderazione",
     "description": "The generated-index page title for category Moderation in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Moderation.link.generated-index.description": {
-    "message": "Protect your server from Raiders, Spammers and more. Track invites, moderate misbehavior and detect Ghost-Pings with these modules.",
+    "message": "Proteggi il tuo server da Raid, Spam e altro. Traccia gli inviti, modera i comportamenti scorretti e rileva i Ping Fantasma con questi moduli.",
     "description": "The generated-index page description for category Moderation in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Support": {
-    "message": "Support",
+    "message": "Supporto",
     "description": "The label for category Support in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Support.link.generated-index.title": {
-    "message": "Support Modules",
+    "message": "Moduli di Supporto",
     "description": "The generated-index page title for category Support in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Support.link.generated-index.description": {
@@ -156,11 +156,11 @@
     "description": "The generated-index page description for category Support in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Tools": {
-    "message": "Tools",
+    "message": "Strumenti",
     "description": "The label for category Tools in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Tools.link.generated-index.title": {
-    "message": "Tool Modules",
+    "message": "Moduli di Strumenti",
     "description": "The generated-index page title for category Tools in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.Tools.link.generated-index.description": {
@@ -168,39 +168,39 @@
     "description": "The generated-index page description for category Tools in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.category.More": {
-    "message": "More",
+    "message": "Altro",
     "description": "The label for category More in sidebar customBotSidebar"
   },
   "sidebar.customBotSidebar.link.Get started": {
-    "message": "Get started",
+    "message": "Inizia ora",
     "description": "The label for link Get started in sidebar customBotSidebar, linking to /docs/custom-bot"
   },
   "sidebar.customBotSidebar.link.Artificial intelligence": {
-    "message": "Artificial intelligence",
+    "message": "Intelligenza artificiale",
     "description": "The label for link Artificial intelligence in sidebar customBotSidebar, linking to https://faq.scnx.app/ai-on-scnx/"
   },
   "sidebar.customBotSidebar.link.The most advanced Discord Support-System": {
-    "message": "The most advanced Discord Support-System",
+    "message": "Il Sistema di Supporto Discord più avanzato",
     "description": "The label for link The most advanced Discord Support-System in sidebar customBotSidebar, linking to https://modmail.net"
   },
   "sidebar.customBotSidebar.link.Suggest new features": {
-    "message": "Suggest new features",
+    "message": "Suggerisci nuove funzioni",
     "description": "The label for link Suggest new features in sidebar customBotSidebar, linking to https://feedback.scnx.xyz"
   },
   "sidebar.customBotSidebar.link.Contribute to the Custom-Bot on GitHub": {
-    "message": "Contribute to the Custom-Bot on GitHub",
+    "message": "Contribuisci al Bot Discord su GitHub",
     "description": "The label for link Contribute to the Custom-Bot on GitHub in sidebar customBotSidebar, linking to https://github.com/ScootKit/CustomDCBot"
   },
   "sidebar.customBotSidebar.doc.Basics about Bots on SCNX": {
-    "message": "Basics about Bots on SCNX",
+    "message": "Basi sui Bot su SCNX",
     "description": "The label for the doc item Basics about Bots on SCNX in sidebar customBotSidebar, linking to the doc scnx/guilds/bots"
   },
   "sidebar.customBotSidebar.doc.Troubleshooting issues": {
-    "message": "Troubleshooting issues",
+    "message": "Risoluzione dei problemi",
     "description": "The label for the doc item Troubleshooting issues in sidebar customBotSidebar, linking to the doc custom-bot/troubleshooting"
   },
   "sidebar.customBotSidebar.doc.Custom Commands": {
-    "message": "Custom Commands",
+    "message": "Comandi Personalizzati",
     "description": "The label for the doc item Custom Commands in sidebar customBotSidebar, linking to the doc custom-bot/custom-commands"
   },
   "sidebar.customBotSidebar.doc.Send messages / embeds, Self-Roles & more": {
@@ -212,11 +212,11 @@
     "description": "The label for the doc item Slash commands & Permissions in sidebar customBotSidebar, linking to the doc custom-bot/slash-commands"
   },
   "sidebar.modmailSidebar.category.SCNX Modmail": {
-    "message": "SCNX Modmail",
+    "message": "Modmail SCNX",
     "description": "The label for category SCNX Modmail in sidebar modmailSidebar"
   },
   "sidebar.modmailSidebar.category.Configure Modmail": {
-    "message": "Configure Modmail",
+    "message": "Configura la Modmail",
     "description": "The label for category Configure Modmail in sidebar modmailSidebar"
   },
   "sidebar.modmailSidebar.category.Configure Modmail.link.generated-index.title": {
